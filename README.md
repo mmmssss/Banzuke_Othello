@@ -1,1 +1,3 @@
 # Banzuke_Othello
+
+## Demo
