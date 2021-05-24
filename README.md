@@ -1,7 +1,6 @@
-![title](https://user-images.githubusercontent.com/44014471/119253300-7fc11100-bbeb-11eb-8176-279184d2590c.jpg)
-
 # Banzuke_Othello
 
+![title](https://user-images.githubusercontent.com/44014471/119253300-7fc11100-bbeb-11eb-8176-279184d2590c.jpg)
 
 
 ## Demo
